@@ -1,6 +1,8 @@
 ### Oi, meu nome é Rafael 👋
 
-Estudante de Ciência de Computação, apaixonado por tecnologia e viciado em redes neurais ! ![terminator- (1)](https://github.com/Saka30/Saka30/assets/104368468/02669e02-740f-4756-94f3-d584435ef556)
+Estudante de Ciência de Computação, apaixonado por tecnologia e viciado em redes neurais ! <img weight=40 height=40 src=https://github.com/Saka30/Saka30/assets/104368468/e2853aeb-fd5a-47fd-b9da-d164d85f0730/>
+
+
 
 Tópicos que me interessam:
   * Machine Learning
@@ -12,9 +14,10 @@ Linguagens de interesse:
 
 <div display="inline">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width="50" height="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img width="50" height="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-  <img width="50" height="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" />
+   
 </div>
 
 #### Onde me encontrar:
