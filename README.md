@@ -1,8 +1,7 @@
 ### Oi, meu nome é Rafael 👋
 
-Estudante de Ciência de Computação, apaixonado por tecnologia e viciado em redes neurais ! <img weight=40 height=40 src=https://github.com/Saka30/Saka30/assets/104368468/e2853aeb-fd5a-47fd-b9da-d164d85f0730/>
 
-
+<img weight=40 height=40 src=https://github.com/Saka30/Saka30/assets/104368468/e2853aeb-fd5a-47fd-b9da-d164d85f0730/> Estudante de Ciência de Computação, apaixonado por tecnologia e viciado em redes neurais ! 
 
 Tópicos que me interessam:
   * Machine Learning
