@@ -1,10 +1,10 @@
 ### Oi, meu nome é Rafael 👋
 
 
-<img weight=40 height=40 src=https://github.com/Saka30/Saka30/assets/104368468/e2853aeb-fd5a-47fd-b9da-d164d85f0730/> Estudante de Ciência da Computação, apaixonado por tecnologia e entusiasta da área de inteligência artificial !
+<img weight=40 height=40 src=https://github.com/Saka30/Saka30/assets/104368468/e2853aeb-fd5a-47fd-b9da-d164d85f0730/> Estudante de Ciência da Computação, apaixonado por tecnologia e entusiasta da área de dados !
 
 Tópicos que me interessam:
-  * Data Analysis
+  * Data engineering / Data Analysis 
   * Machine Learning
   * Deep Learning
   * MLOps
