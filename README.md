@@ -1,18 +1,18 @@
 ### Oi, meu nome é Rafael 👋
 
 
-<img weight=40 height=40 src=https://github.com/Saka30/Saka30/assets/104368468/e2853aeb-fd5a-47fd-b9da-d164d85f0730/> Estudante de Ciência da Computação, apaixonado por tecnologia e entusiasta da área de dados !
+<img weight=40 height=40 src=https://github.com/Saka30/Saka30/assets/104368468/e2853aeb-fd5a-47fd-b9da-d164d85f0730/> Estudante de Ciência da Computação, apaixonado por tecnologia.
 
 Tópicos que me interessam:
-  * Data engineering / Data Analysis 
-  * Machine Learning
-  * Deep Learning
-  * MLOps
+  * Desenvolvimento BackEnd
+  * BlockChain
 
-Linguagens de interesse:
+Tecnologias de Interesse:
 
 <div display="inline">
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>          
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img width="50" height="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"/>         
 </div>
 
