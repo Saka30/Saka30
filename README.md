@@ -5,6 +5,7 @@
 
 Tópicos que me interessam:
   * Desenvolvimento BackEnd
+  * Trading Quantitativo
   * BlockChain
 
 Tecnologias de Interesse:
